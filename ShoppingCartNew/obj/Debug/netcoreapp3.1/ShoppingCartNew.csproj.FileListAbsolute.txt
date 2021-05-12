@@ -1,0 +1,13 @@
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.exe
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.deps.json
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.runtimeconfig.json
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.runtimeconfig.dev.json
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.dll
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\bin\Debug\netcoreapp3.1\ShoppingCartNew.pdb
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.csprojAssemblyReference.cache
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.AssemblyInfoInputs.cache
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.AssemblyInfo.cs
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.csproj.CoreCompileInputs.cache
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.dll
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.pdb
+C:\Users\pradnya.shedge\source\repos\ShoppingCartNew\ShoppingCartNew\obj\Debug\netcoreapp3.1\ShoppingCartNew.genruntimeconfig.cache
